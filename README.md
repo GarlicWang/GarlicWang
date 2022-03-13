@@ -5,7 +5,8 @@ I’m an undergraduate student in Electrical Engineering at National Taiwan Univ
 I am familiar with developing, including C++ and Python. I am also experienced in firmware development on ARM-based Architecture.
 
 BTW Garlic is my cute dog🐶
-![](images/Garlic.JPG)
+
+<img src="images/Garlic.JPG" width="200"/>
 
 <!--
 Here are some ideas to get you started:
