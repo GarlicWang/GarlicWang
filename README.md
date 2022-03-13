@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**GarlicWang/GarlicWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate student in Electrical Engineering at National Taiwan University. I am currently employed at Academia Sinica as a Research Assistant. I also held numerous events when I was a freshman at university.
 
+I am familiar with developing, including C++ and Python. I am also experienced in firmware development on ARM-based Architecture.
+
+BTW Garlic is my cute dog🐶
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
