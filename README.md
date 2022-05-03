@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m an undergraduate student in Electrical Engineering at National Taiwan University. I am currently employed at Academia Sinica as a Research Assistant. I also held numerous events when I was a freshman at university.
+Hi! I’m an undergraduate student in Electrical Engineering at National Taiwan University. I am currently employed as a Research Assistant in CFDA & CLIP Labs, Research Center of Information Technology Center, Academia Sinica.
 
-I am familiar with developing, including C++ and Python. I am also experienced in firmware development on ARM-based Architecture.
+My research interests focus on Data Science. In particular, I aim to optimize the performance of Recommendation System.
 
 BTW Garlic is my cute dog 🐶
 
