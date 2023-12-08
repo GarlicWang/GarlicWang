@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi! I’m an undergraduate student in Electrical Engineering at National Taiwan University. My research interests focus on Graph Neural Network and Recommendation System.
+Hi! I’m an undergraduate student in Electrical Engineering at National Taiwan University.
 
-BTW Garlic is my cute dog 🐶
+Fun fact: Garlic is my cute dog 🐶
 
 <img src="images/Garlic.JPG" width="200"/>
 
