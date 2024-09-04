@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I’m an undergraduate student in Electrical Engineering at National Taiwan University.
+Hi! I’m an graduate student in Electrical & Computer Engineering at UIUC.
 
 Fun fact: Garlic is my cute dog 🐶
 
