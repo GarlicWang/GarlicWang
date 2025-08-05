@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I’m an graduate student in Electrical & Computer Engineering at UIUC.
+Hi! I’m a graduate student in Electrical & Computer Engineering at UIUC.
 
 Fun fact: Garlic is my cute dog 🐶
 
